@@ -20,7 +20,7 @@ idade = 46
 salario = 1212.00
 
 complexo = 2+1j
-
+                 
 # Declare uma variável do tipo booleano
 verdadeiro = True
 
